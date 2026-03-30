@@ -2,64 +2,41 @@
 
 ## 👀 About Me
 
-* 🌱 I’m currently focused on **Python** and exploring the exciting world of **Data Science**, **Machine Learning**, and **Full Stack Development**
-* 💻 I enjoy building scalable applications and solving real-world problems using modern technologies
-* 📚 Passionate about combining **AI + Web Development** to create intelligent systems
-* 📊 I love working with data to uncover insights and make informed decisions
+🌱 I’m currently focused on **Python**, **C Programming**, and exploring the exciting world of **Machine Learning** and **Full Stack Development**.
+💻 I enjoy building scalable applications and solving real-world problems using modern technologies.
+📚 I’m passionate about combining **AI + Web Development** to create intelligent systems.
 
 ---
 
 ## 🚀 What I Do
 
-### 🐍 Python
+💡 **C Programming:** I’m deepening my understanding of algorithms, data structures, and memory management in C, which helps me improve my problem-solving skills and programming efficiency.
 
-* Used for scripting, backend development, and data-driven applications
-* Hands-on experience with:
+🐍 **Python:** I use Python for everything from basic scripting to backend development and Machine Learning, working with libraries like Pandas, NumPy, and Scikit-learn.
 
-  * **Pandas**
-  * **NumPy**
-  * **Scikit-learn**
+🌐 **Full Stack Development:** I build modern web applications using technologies like HTML, CSS, JavaScript, React, and backend frameworks such as Node.js and Python (Flask, FastAPI), along with databases like MySQL and MongoDB.
 
-### 🌐 Full Stack Development
-
-* Building modern web applications using:
-
-  * **Frontend:** HTML, CSS, JavaScript, React
-  * **Backend:** Node.js / Python (Flask, FastAPI)
-  * **Database:** MySQL, MongoDB
-* Experience in creating APIs and integrating frontend with backend systems
-
-### 🤖 Machine Learning
-
-* Learning and building predictive models
-* Exploring algorithms like:
-
-  * Linear Regression
-  * Decision Trees
-  * Neural Networks
-
-### 📊 Data Science
-
-* Working on:
-
-  * Data Cleaning
-  * Data Visualization
-  * Statistical Analysis
-* Gaining hands-on experience with real-world datasets
+🤖 **Machine Learning:** I’m learning to build predictive models and explore algorithms like linear regression, decision trees, and neural networks.
 
 ---
 
 ## 🤝 I’m Looking to Collaborate On
 
-* 🔹 Full Stack Projects (Web Apps, APIs, SaaS platforms)
-* 🔹 Machine Learning projects (model building & optimization)
-* 🔹 Data Science projects (analysis, visualization, insights extraction)
+🔹 **Full Stack Development:** Building scalable web applications, REST APIs, and SaaS platforms using modern technologies
+
+🔹 **C & Python Projects:** Problem-solving, algorithms, data structures, and system-level programming
+
+🔹 **Machine Learning:** Developing and optimizing predictive models, experimenting with real-world datasets, and improving model performance
+
+🔹 **Open Source Contributions:** Contributing to impactful projects and collaborating with developers worldwide
+
+🔹 **Innovative Tech Projects:** Ideas that combine **AI + Web Development** to solve real-world problems
 
 ---
 
 ## 📫 How to Reach Me
 
-* 📧 Email: **suhaskumard4@gmail.com**
+📧 Email: **[suhaskumard4@gmail.com](mailto:suhaskumard4@gmail.com)**
 
 ---
 
