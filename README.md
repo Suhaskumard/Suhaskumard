@@ -38,11 +38,10 @@
 
 ## 📊 GitHub Stats
 
-![Suhas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suhaskumard\&show_icons=true\&theme=radical)
+
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Suhaskumard\&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Suhaskumard\&layout=compact\&theme=radical)
 
 ---
 
