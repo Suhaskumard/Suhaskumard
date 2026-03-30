@@ -36,9 +36,20 @@
 
 ---
 
-## 📫 How to Reach Me
+## 📊 GitHub Stats
 
-📧 Email: **[suhaskumard4@gmail.com](mailto:suhaskumard4@gmail.com)**
+![Suhas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suhaskumard\&show_icons=true\&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Suhaskumard\&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Suhaskumard\&layout=compact\&theme=radical)
+
+---
+
+## 🌐 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/suhas-kumar-d-b47a18293/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:suhaskumard4@gmail.com)
 
 ---
 
