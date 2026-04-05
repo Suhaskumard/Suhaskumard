@@ -11,7 +11,7 @@
 ---
 
 ## 🚀 What I Do
-
+ 
 💡 **C Programming:** I’m deepening my understanding of algorithms, data structures, and memory management in C, which helps me improve my problem-solving skills and programming efficiency.
 
 🐍 **Python:** I use Python for everything from basic scripting to backend development and Machine Learning, working with libraries like Pandas, NumPy, and Scikit-learn.
