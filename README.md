@@ -74,15 +74,6 @@ I enjoy working across the entire development lifecycle,from designing efficient
 
 ---
 
-## 🤝 Open to Collaborate
-- Full Stack Web Development Projects  
-- Backend Systems & API Development  
-- AI + Web Integration Projects  
-- Open Source Contributions  
-- Innovative Tech Ideas & Startups  
-
----
-
 ## 📊 GitHub Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Suhaskumard&theme=radical)
