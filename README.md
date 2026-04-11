@@ -97,4 +97,3 @@ I enjoy working across the entire development lifecycle — from designing effic
 
 ---
 
-⭐ *Focused on building, learning, and creating real-world impact through technology.*
