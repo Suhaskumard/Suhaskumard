@@ -97,11 +97,4 @@ I enjoy working across the entire development lifecycle — from designing effic
 
 ---
 
-## ⚡ Additional Info
-- Passionate about **building scalable and impactful solutions**  
-- Strong interest in **AI-driven full stack applications**  
-- Continuously learning and adapting to new technologies  
-
----
-
 ⭐ *Focused on building, learning, and creating real-world impact through technology.*
