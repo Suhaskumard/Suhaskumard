@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Suhas Kumar!
 
-## 👀 About Me
+## 👀 About Me 
   
 🌱 I’m currently focused on **Python**, **C Programming**, and exploring the exciting world of **Machine Learning** and **Full Stack Development**.
  
