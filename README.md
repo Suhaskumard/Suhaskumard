@@ -3,7 +3,7 @@
 ## 🚀 About Me
 I am a **Full Stack Developer and AI Enthusiast** with strong proficiency in **C,Java, and Python**. I focus on building scalable web applications and integrating intelligent systems to solve real-world problems.
 
-I enjoy working across the entire development lifecycle — from designing efficient backend architectures to creating responsive user interfaces — while leveraging **Machine Learning** where applicable.
+I enjoy working across the entire development lifecycle,from designing efficient backend architectures to creating responsive user interfaces,while leveraging **Machine Learning** where applicable.
 
 ---
 
