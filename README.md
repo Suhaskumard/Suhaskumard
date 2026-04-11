@@ -3,7 +3,7 @@
 ## 👀 About Me
   
 🌱 I’m currently focused on **Python**, **C Programming**, and exploring the exciting world of **Machine Learning** and **Full Stack Development**.
-
+ 
 💻 I enjoy building scalable applications and solving real-world problems using modern technologies.
 
 📚 I’m passionate about combining **AI + Web Development** to create intelligent systems.
