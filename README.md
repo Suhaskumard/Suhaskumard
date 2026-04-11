@@ -58,11 +58,11 @@ I enjoy working across the entire development lifecycle,from designing efficient
 ---
 
 ## 💼 What I Do
-- 🔹 Develop **scalable full-stack applications** using modern frameworks  
-- 🔹 Design and implement **robust backend systems and REST APIs**  
-- 🔹 Work across **multiple programming languages** for optimized solutions  
-- 🔹 Apply **Machine Learning techniques** to solve real-world problems  
-- 🔹 Use **Docker for containerization and deployment workflows**  
+  🔹 Develop **scalable full-stack applications** using modern frameworks  
+  🔹 Design and implement **robust backend systems and REST APIs**  
+  🔹 Work across **multiple programming languages** for optimized solutions  
+  🔹 Apply **Machine Learning techniques** to solve real-world problems  
+  🔹 Use **Docker for containerization and deployment workflows**  
 
 ---
 
